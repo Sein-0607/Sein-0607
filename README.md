@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# 👨‍🎓 Aspiring AI Developer - 김세인의 개발 일지 🌟
+
+안녕하세요! 👋 인공지능 개발자를 꿈꾸는 김세인입니다.
+
+## 📬 연락처
+
+개발과 학습에 관한 조언이나 소통을 원하면 언제든지 메일 주세요: [sein6303@gmail.com](mailto:sein6303@gmail.com)
+
+
 <!--
 **Sein-0607/Sein-0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
