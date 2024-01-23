@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-[sein6303@gmail.com](mailto:sein6303@gmail.com)
+## Technologies
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+
+## Connect with Me
+
+- Email: sein6303@gmail.com
+
 
 
 <!--
